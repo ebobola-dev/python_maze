@@ -1,4 +1,4 @@
-from models.field import Maze
+from models.maze import Maze
 
 from config import CONFIG
 
